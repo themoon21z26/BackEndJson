@@ -1,0 +1,26 @@
+{
+  "products": [],
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "email": "vana@example.com",
+      "password": "123456",
+      "role": "customer"
+    },
+    {
+      "id": "2",
+      "name": "Trần Thị B",
+      "email": "thib@example.com",
+      "password": "654321",
+      "role": "customer"
+    },
+    {
+      "id": "3",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ]
+}
